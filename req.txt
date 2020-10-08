@@ -1,0 +1,17 @@
+astroid==2.4.2
+click==7.1.2
+colorama==0.4.3
+isort==5.5.2
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+Pillow==7.2.0
+pylint==2.6.0
+PyQt5==5.15.0
+PyQt5-sip==12.8.1
+pyqt5-tools==5.15.0.1.7.1
+PyQt5Designer==5.14.1
+python-dotenv==0.14.0
+six==1.15.0
+SQLAlchemy==1.3.19
+toml==0.10.1
+wrapt==1.12.1
